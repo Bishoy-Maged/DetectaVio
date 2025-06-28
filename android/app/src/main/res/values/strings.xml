@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">detectavio</string>
+    <string name="facebook_app_id">963901651893892</string>
+    <string name="fb_login_protocol_scheme">fbbf70624fd5f9fdbe573778e7d2a11307</string>
+    <string name="facebook_client_token">0869ef4a87f909aa49f9f1ac95d6a314</string>
+</resources>
