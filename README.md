@@ -35,8 +35,8 @@ DetectaVio is an intelligent surveillance system that uses computer vision and d
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/detectavio.git
-   cd detectavio
+   git clone https://github.com/Bishoy-Maged/DetectaVio.git
+   cd DetectaVio
    ```
 
 2. **Install dependencies**
