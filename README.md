@@ -92,8 +92,9 @@ lib/
 ## 👥 Team
 
 - **Maria Mohsen** - Team Leader & Frontend Developer
-- **Verena Azer & Gena Ghats** - AI Model Development
+- **Verena Azer & Gena Ghattas** - AI Model Development
 - **Beshoy Maged** - Flutter Mobile Developer
+- **Ziad Abdelaziz** - Backend Developer
 - **Dr. Dalia Sameh** - Project Supervisor
 
 ## 📄 License
